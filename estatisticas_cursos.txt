@@ -1,0 +1,5 @@
+Estat�sticas dos cursos
+
+Quantidade de cursos: 10
+Curso com a maior carga hor�ria: Web Development com Django (50 horas)
+Curso com o maior valor: Machine Learning Fundamentals (R$ 1200.00)
